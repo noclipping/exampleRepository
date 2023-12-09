@@ -1,7 +1,11 @@
 
+console.log('مرحبًا')
+
+
 console.log('Ciao')
 
 console.log('Bonjour')
+
 
 
 console.log('Elizabeth')
